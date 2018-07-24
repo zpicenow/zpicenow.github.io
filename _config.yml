@@ -1,0 +1,19 @@
+title:             ZhaoPeng
+email:             zp2016@mail.dlut.edu.cn
+description:       越努力，越幸运
+author:            DUT赵鹏
+baseurl:           ""
+url:               "http://zpicenow.github.io"
+
+# Social Profiles
+twitter_username:  
+github_username:   zpicenow
+facebook_username: 
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
