@@ -37,17 +37,17 @@
 }
 
 .member-name{
-	font-size: 2.3px;
+	font-size: 15px;
 	font-weight: 700;
 }
 
 span.member-email{
-	font-size: 1.8px;
+	font-size: 15px;
 	font-weight: 600;
 }
 
 .member-intro{
-	font-size: 1.8px;
+	font-size: 10px;
 	font-weight: 500;
 }
 
