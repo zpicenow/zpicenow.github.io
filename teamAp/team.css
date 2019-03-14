@@ -1,27 +1,27 @@
 /*团队介绍*/
 .team-box{
-	margin-top:2rem;
-	margin-bottom: 4rem;
+	margin-top:2px;
+	margin-bottom: 4px;
 }
 .team{
-	font-size: 4rem;
+	font-size: 4px;
 	color:#006599;
-	padding:3rem 0;
+	padding:3px 0;
 	border-bottom:1px solid #eeeeee;
 }
 
 .team-introduce{
-	margin-top: 2rem;
-	font-size: 2.5rem;
+	margin-top: 2px;
+	font-size: 20px;
 	font-weight: 600;
 }
 
 /*团队成员*/
 .articles{
-	padding-top: 2rem;
+	padding-top: 2px;
 }
 .member-box{
-	padding: 1rem 0
+	padding: 1px 0
 }
 .media-object{
 	border-radius: 50%;
@@ -33,38 +33,38 @@
 }
 
 .media-body p span{
-	padding-right: 1rem;
+	padding-right: 1px;
 }
 
 .member-name{
-	font-size: 2.3rem;
+	font-size: 25px;
 	font-weight: 700;
 }
 
 span.member-email{
-	font-size: 1.8rem;
+	font-size: 20px;
 	font-weight: 600;
 }
 
 .member-intro{
-	font-size: 1.8rem;
+	font-size: 15px;
 	font-weight: 500;
 }
 
 @media (max-width: 768px){
 	.media-body{
-		padding-right: 1rem;
-		padding-left: 1rem;
-		padding-top: 1.5rem;
+		padding-right: 1px;
+		padding-left: 1px;
+		padding-top: 1.5px;
 	}
 
 	.member-box{
-		padding: 1rem;
-		border-bottom: 0.1rem solid #eee;
+		padding: 1px;
+		border-bottom: 0.1px solid #eee;
 	}
 
 	.team{
-		padding: 1.5rem;
+		padding: 1.5px;
 	}
 
 	.team-box{
@@ -79,21 +79,21 @@ span.member-email{
 @media (min-width: 768px){
 	.media-body{
 		padding-left: 0;
-		padding-top: 1.5rem;
-		padding-right: 4rem;
-		padding-left: 4rem;
+		padding-top: 1.5px;
+		padding-right: 4px;
+		padding-left: 4px;
 	}
 }
 
 @media (min-width: 992px){
 	.media-body{
 		padding-left: 0;
-		padding-top: 0.5rem;
-		padding-right: 5rem;
+		padding-top: 0.5px;
+		padding-right: 5px;
 	}
 
 	.media-body p{
-		margin-left: 1em;
+		margin-left: 1px;
 		
 	}
 }
